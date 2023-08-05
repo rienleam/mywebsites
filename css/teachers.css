@@ -1,0 +1,46 @@
+.teachers {
+    width: 80%;
+    text-align: start;
+    margin: 120px 0px 0px 0px;
+}
+.thanks {
+    width: 80%;
+    text-align: start;
+    margin-bottom: 30px;
+}
+.teachers h1 {
+    color: orange;
+    margin: 0;
+}
+.thanks h1 {
+    text-align: start;
+    color: orange;
+    margin: 0;
+}
+.teachers p {
+    font-size: 17px;
+    line-height: 25px;
+    text-align: justify;
+}
+.teacher-pictures {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.their-info {
+    width: 20%;
+    margin-bottom: 30px;
+}
+.their-info img {
+    width: 100%;
+    border-radius: 10px;
+}
+.their-info h3 {
+    margin: 10px 0 10px 0;
+}
+.their-info img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}

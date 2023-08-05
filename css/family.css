@@ -1,0 +1,55 @@
+.parents {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 70px 0px 0px 0px;
+}
+.parents img {
+    width: 70%;
+}
+.family {
+    width: 80%;
+    text-align: start;
+}
+.thanks {
+    width: 80%;
+    text-align: start;
+    margin-bottom: 30px;
+}
+.family h1 {
+    color: orange;
+    margin: 0;
+}
+.thanks h1 {
+    text-align: start;
+    color: orange;
+    margin: 0;
+}
+.family p {
+    font-size: 17px;
+    line-height: 25px;
+    text-align: justify;
+}
+.family-pictures {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.their-info {
+    width: 22%;
+    margin-bottom: 30px;
+}
+.their-info img {
+    width: 100%;
+    border-radius: 10px;
+}
+.their-info h3 {
+    margin: 10px 0 10px 0;
+}
+.their-info img:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
